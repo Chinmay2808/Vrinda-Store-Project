@@ -1,4 +1,4 @@
-# Vrinda-Store-Project
+# Vrinda-Store-Project_Excel
 
 Vrinda Store is a PAN India textile business which sells its products to all the age groups through multiple Ecom channels thoroughout the year. It works mostly as a B2C business.
 
